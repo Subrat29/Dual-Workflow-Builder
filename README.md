@@ -125,8 +125,8 @@ Example implementation: Employee Satisfaction Survey Analysis
 4. Preview and export the report
 
 ## Technical Implementation
-- Built with Next.js framework
-- Uses React for UI components
+- Built with React + Next.js framework
+- Uses Shadcn for UI components
 - Redux for state management
 - Natural language processing for workflow generation
 - Responsive design with mobile-first approach
